@@ -1,0 +1,6 @@
+#copy the path of the data in with the corresponding key
+# there has to be a data folder in the assesment folder
+liver: 'Data/Liver_GSE14520_U133A.csv'
+cancer: 'Data/breast-cancer.csv'
+housing: 'Data/housing-data.txt'
+sensor: 'Data/sensor.csv'
